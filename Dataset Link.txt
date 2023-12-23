@@ -1,0 +1,6 @@
+Landsat Satellite Imagery Datasets
+-----------------------------------
+Source:  USGS Earth Explorer -LANDSAT 7
+
+Dataset-1: https://drive.google.com/drive/folders/1uhvwMr3cvovKWH8BWC6biXvE_p78eUYU?usp=drive_link
+Dataset-2: https://drive.google.com/drive/folders/1Br2nuqAc15ERH8DCy-vyyty6Ay3UOXSP?usp=sharing
